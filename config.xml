@@ -5,7 +5,7 @@
         version     = "1.0.0" >
 
     <name>check connection</name>
-    <description><name>check connection app</description>
+    <description>check connection app</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
