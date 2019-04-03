@@ -20,3 +20,16 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function personalInfo() {
+
+	info =  'Hi, I am Tomir Kłós :-)' + '\n' +
+			'=====' + '\n' +
+			'email    : email@email.pl'       + '\n' + 
+			'website : null'  + '\n' + 
+			'deans group number 1211' + '\n' + 
+			'field of study    : all '          + '\n' + 
+
+	navigator.notification.alert(info);
+	
+}
